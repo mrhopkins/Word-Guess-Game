@@ -1,0 +1,40 @@
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: black;
+  color: white;
+}
+
+header .banner {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+
+section .start-msg {
+  font-style: italic;
+  font-size: 1.5em;
+  color: red;
+}
+
+section .game-data {
+  font-size: 1.2em;
+}
+
+#question {
+  font-size: 2.0em;
+  color: lavender;
+  letter-spacing: 0.1em;
+}
+
+#already-guessed{
+  letter-spacing: 0.2em;
+}
+
+#hint {
+  font-size: 1.2em;
+}
